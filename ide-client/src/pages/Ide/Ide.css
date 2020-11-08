@@ -1,0 +1,37 @@
+#code{
+    min-height: 40vh;
+    min-width: 50vw;
+    overflow-y: hidden;
+    resize: none;
+}
+
+#result{
+    min-width: 20vw;
+    min-height: 15vh;
+    resize: none;
+}
+
+#input{
+    min-height: 15vh;
+    min-width: 20vw;
+    resize: none;
+    overflow-y: hidden;
+}
+
+.container{
+    display: flex;
+}
+
+.container-io{
+    margin-top: 3rem;
+    margin-right: 2rem;
+}
+
+.buttons > button{
+    margin: 1rem 1rem 1rem 0rem;
+}
+
+textarea{
+    width: 200px !important;
+    height: 100px !important;
+}
