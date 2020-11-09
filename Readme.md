@@ -1,10 +1,12 @@
 1) Clone it to your system 
   git clone https://github.com/mallikasethi/ideMERN.git
-2) Go to ide-client and then run npm install and npm start
+2) Go to ide-client and then run npm install and npm start- 
+COMMANDS
 cd ide-client 
 npm install 
 npm start
-3) Go to ide-server and then run npm install and npm run dev
+3) Go to ide-server and then run npm install and npm run dev-
+COMMANDS
 cd ide-server
 npm install
 npm run dev
